@@ -8,20 +8,6 @@ from riversi.classes import Board
 import riversi.AI as AI
 pygame.init()
 
-# Player Input with validation on the board
-def getPlayerMove(board, playerTile):
-    pass
-
-
-# if no valid move(s) possible then True
-def isTerminalNode(board, player):  # game end
-    pass
-
-
-# Allows the player to pick the tile he wants
-def chooseTile():
-    pass
-
 
 def gameover():
     player_score = AI.evalBoard(board, 'O')
