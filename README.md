@@ -1,6 +1,6 @@
 # MiniMax
 
-##**Riversi**:
+## **Riversi**:
 Riversi is a game I have been playing with my family for years, sadly the bot could beat my parents instantly.
 ![game](https://user-images.githubusercontent.com/52299477/149196363-104a69ee-0260-4c13-b292-08903e9a259a.gif)
 
